@@ -1,0 +1,8 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: DEPARTMENT-SERVICE
+
+  healthcheck:
+    enabled: true
